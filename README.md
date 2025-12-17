@@ -10,12 +10,12 @@ Desenvolvedor de software apaixonado por transformar ideias em realidade! 🚀 T
 ### 🌐 Desenvolvimento Web
 - **Frontend**:
   - 🌟 HTML, CSS e JavaScript para interfaces modernas e interativas.
-  - Frameworks: **React** para aplicações dinâmicas e responsivas.
+Frameworks: React e Next.js para aplicações dinâmicas, performáticas e responsivas.
 - **Backend**:
-  - ⚙️ Desenvolvimento de APIs e sistemas robustos com **Node.js** e **ASP.NET**.
-  - Criação de soluções server-side escaláveis e seguras.
+  - ⚙️ Desenvolvimento de APIs e sistemas robustos com Node.js, ASP.NET e Go (Golang).
+Criação de soluções server-side escaláveis, seguras e de alta performance.
 - **Linguagens e Ferramentas Adicionais**:
-  - 🛠️ PHP, C#, integração de serviços e banco de dados.
+  - 🛠️ PHP, C#, integração de serviços e bancos de dados mysql e postgresql.
 
 ### 💻 Desenvolvimento Desktop
 - Aplicações personalizadas para **Windows** usando **C#** e **C++**.
